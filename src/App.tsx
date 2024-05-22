@@ -3,7 +3,7 @@ function App() {
     <>
       <main className='main'>
         <section className='hero'>
-          <div className='hero__title'>30 Day Test</div>
+          <div className='hero__title'>Take the 30 Day Test</div>
           <div className='hero__subtitle'>by Earl Nightingle</div>
         </section>
 
@@ -47,7 +47,7 @@ function App() {
 
         <section className='sidebar2'>Another section in handy</section>
 
-        <footer className='footer'>Footer content goes here.</footer>
+        <footer className='footer'>Web App Developed by Tamal Chowdhury</footer>
       </main>
     </>
   )
