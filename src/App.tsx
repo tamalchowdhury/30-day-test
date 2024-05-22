@@ -36,16 +36,35 @@ function App() {
             Can you immidiately tell me what your next goal is? What do you want
             to become?
           </p>
+
+          <h1 className='heading u-bold'>YOU BECOME WHAT YOU THINK ABOUT</h1>
+
+          <h1 className='heading'>REFUSE TO BELIEVE THAT I WILL BE DEFEATED</h1>
+
+          <h1 className='heading'>IMAGINATION: LET YOUR MIND FIND A WAY</h1>
+
+          <h1 className='heading'>COURAGE, FOCUS ON YOUR GOALS EVERY DAY</h1>
+
+          <h1 className='heading'>THINK ABOUT YOUR GOALS FROM ALL ANGLES.</h1>
+
+          <h1 className='heading'>SAVE 10%, TAKE ACTION</h1>
         </section>
 
         <section className='sidebar'>
           <div className='sidebar__title'>
             Earl Nightingle's 30 Day Challenge
           </div>
-          <div className='sidebar__subtitle'>Watch the Video</div>
+
+          <a
+            className='sidebar__button'
+            href='https://www.youtube.com/watch?v=ZN6m0-UVLro'
+            target='_blank'
+          >
+            Watch the Video
+          </a>
         </section>
 
-        <section className='sidebar2'>Another section in handy</section>
+        <section className='sidebar2'></section>
 
         <footer className='footer'>Web App Developed by Tamal Chowdhury</footer>
       </main>
